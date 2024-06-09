@@ -20,4 +20,4 @@ Para executar o projeto localmente:
 
 1. Domínio do repositório:
    ```bash
-   https://github.com/juanrodrip/batman-ticket-shop.git
+   https://juanrodrip.github.io/batman-ticket-shop/
