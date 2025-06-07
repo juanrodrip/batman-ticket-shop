@@ -21,3 +21,6 @@ Para executar o projeto localmente:
 1. Domínio do repositório:
    ```bash
    https://juanrodrip.github.io/batman-ticket-shop/
+
+Previa do projeto:
+![Image](https://github.com/user-attachments/assets/76b2a1d3-b65c-4151-bc4c-f867fe031bfd)
